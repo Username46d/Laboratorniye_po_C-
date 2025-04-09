@@ -2,6 +2,7 @@
 #include <string>
 
 using namespace std;
+
 class Entity {
 protected:
     string name;
