@@ -10,13 +10,11 @@ private:
     int defense;
 
 public:
-    // Конструктор
     Character(const string& n, int h, int a, int d)
         : name(n), health(h), attack(a), defense(d) {
         cout << "Character " << name << " created!" << endl;
     }
 
-    // Деструктор
     ~Character() {
         cout << "Character " << name << " destroyed!" << endl;
     }
