@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\ConsoleApplication2\ConsoleApplication2\Лабораторная_работа_1.2.cpp" />
     <ClCompile Include="Лабораторная_работа_1.1.cpp" />
+    <ClCompile Include="Лабораторная_работа_1.2.cpp" />
     <ClCompile Include="Лабораторная_работа_1.3.cpp" />
     <ClCompile Include="Лабораторная_работа_2.cpp" />
   </ItemGroup>
