@@ -61,5 +61,4 @@ int main()
 
     hero.heal(150);
     hero.displayInfo();
-
 }
