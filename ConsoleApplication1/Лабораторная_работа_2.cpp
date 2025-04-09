@@ -35,7 +35,6 @@ private:
     int defense;
 
 public:
-    // Конструктор
     Monster(const string& n, int h, int a, int d)
         : name(n), health(h), attack(a), defense(d) {
         cout << "Monster " << name << " created!" << endl;
