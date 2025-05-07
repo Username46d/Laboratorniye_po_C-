@@ -130,11 +130,16 @@
     <ClCompile Include="Лабораторная_работа_1.1.cpp" />
     <ClCompile Include="Лабораторная_работа_1.2.cpp" />
     <ClCompile Include="Лабораторная_работа_1.3.cpp" />
+    <ClCompile Include="Лабораторная_работа_10.cpp" />
     <ClCompile Include="Лабораторная_работа_2.cpp" />
     <ClCompile Include="Лабораторная_работа_3.cpp" />
     <ClCompile Include="Лабораторная_работа_4.cpp" />
     <ClCompile Include="Лабораторная_работа_5.cpp" />
     <ClCompile Include="Лабораторная_работа_6.cpp" />
+    <ClCompile Include="Лабораторная_работа_7.1.cpp" />
+    <ClCompile Include="Лабораторная_работа_7.2.cpp" />
+    <ClCompile Include="Лабораторная_работа_8.cpp" />
+    <ClCompile Include="Лабораторная_работа_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
